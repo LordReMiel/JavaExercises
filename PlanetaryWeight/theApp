@@ -1,0 +1,9 @@
+7. Program should ask your weight and planet. Compute your weight on the planet based on the table below:
+#    Planet    Relative gravity
+1    Venus        0.78
+2    Mars        0.39
+3    Jupiter    2.65
+4    Saturn    1.17
+5    Uranus    1.05
+6    Neptune    1.23
+So, for example, if your weight is 80 kg on earth, then you would weigh just over 31 kg on Mars, since Mars' gravity is 0.39 times earth's gravity. (80 * 0.39 is 31.20)
